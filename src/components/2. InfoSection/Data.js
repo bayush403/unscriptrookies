@@ -1,0 +1,16 @@
+export const homeObjOne = {
+    id: 'about',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: "ABOUT",
+    headline: "UnScr;pt 2k23, Exclusively for 2nd year students across India",
+    description: "Fr.CRCE's annual national level hackathon has entered in its 5th edition. The hackathon includes: 24 hours coding, 2 domains, 40 Teams.\nLots of learning with a competitive atmosphere. UnScr;pt Rookies wishes to bring opportunities for all coders to have a hands-on experience on various domains and bring the best out of them.",
+    // buttonLabel: "Get Started",
+    imgStart: true,
+    img: require("../../images/about.svg").default,
+    alt: "car",
+    dark: true,
+    primary: true,
+    darkText: false,
+}

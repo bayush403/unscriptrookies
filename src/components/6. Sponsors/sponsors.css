@@ -1,0 +1,50 @@
+img {
+  text-align: center;
+  padding: 5px;
+}
+
+.size {
+  width: 250px;
+  padding: 10px;
+}
+
+.size-taskade {
+  width: 200px;
+  padding: 10px;
+}
+
+.size-ll {
+  width: 180px;
+  padding: 10px;
+}
+
+.size-streamyard {
+  width: 330px;
+}
+.size-noticebard {
+  width: 260px;
+}
+
+.position {
+  text-align: center;
+  /* padding-left: 30px; */
+}
+
+.position-1 {
+  width: 260px;
+}
+
+.position-2 {
+  margin-right: 25px;
+}
+
+@media screen and (min-width: 1024px) {
+  .position-1 {
+    margin-left: -52px;
+    width: 230px;
+  }
+
+  .size-noticebard {
+    width: 230px;
+  }
+}

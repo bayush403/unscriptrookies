@@ -1,0 +1,26 @@
+button,
+button:hover {
+  border: 2px solid transparent;
+}
+button {
+  align-items: center;
+  background-color: #3770ff;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  font-size: 20px;
+  font-weight: 600;
+  height: 44px;
+  justify-content: center;
+  outline: none;
+  padding: 0 32px;
+  transition: all 0.1s ease-in 0s;
+  white-space: nowrap;
+  width: 100%;
+  cursor: pointer;
+}
+svg {
+  height: 24px;
+  width: 24px;
+  margin-right: 8px;
+}

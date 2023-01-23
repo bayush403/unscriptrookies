@@ -1,0 +1,15 @@
+.fa-rupee-sign {
+  font-size: 36px !important;
+  margin-right: 15px;
+  color: rgb(219, 219, 14);
+}
+
+.fa-check-circle {
+  font-size: 30px !important;
+  margin-right: 15px;
+  color: lightgreen;
+}
+
+.length {
+  max-width: 800px;
+}

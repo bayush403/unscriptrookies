@@ -1,0 +1,15 @@
+.fa-trophy {
+  font-size: 30px !important;
+  color: orange;
+}
+
+.para-trophy {
+  color: rgb(48, 9, 9);
+  font-weight: 500;
+}
+
+.grid-box-1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 10px 5px;
+}
