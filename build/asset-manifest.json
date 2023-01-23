@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/unscriptrookies/static/css/main.f6022062.chunk.css",
+    "main.js": "/unscriptrookies/static/js/main.9d63be34.chunk.js",
+    "main.js.map": "/unscriptrookies/static/js/main.9d63be34.chunk.js.map",
+    "runtime-main.js": "/unscriptrookies/static/js/runtime-main.f70c755a.js",
+    "runtime-main.js.map": "/unscriptrookies/static/js/runtime-main.f70c755a.js.map",
+    "static/js/2.d1c7bffb.chunk.js": "/unscriptrookies/static/js/2.d1c7bffb.chunk.js",
+    "static/js/2.d1c7bffb.chunk.js.map": "/unscriptrookies/static/js/2.d1c7bffb.chunk.js.map",
+    "index.html": "/unscriptrookies/index.html",
+    "static/css/main.f6022062.chunk.css.map": "/unscriptrookies/static/css/main.f6022062.chunk.css.map",
+    "static/js/2.d1c7bffb.chunk.js.LICENSE.txt": "/unscriptrookies/static/js/2.d1c7bffb.chunk.js.LICENSE.txt",
+    "static/media/Insynout_logo_black.bbb1dd34.png": "/unscriptrookies/static/media/Insynout_logo_black.bbb1dd34.png",
+    "static/media/Leading_Learners.c5411396.png": "/unscriptrookies/static/media/Leading_Learners.c5411396.png",
+    "static/media/LetsUpgrade.b2687fac.png": "/unscriptrookies/static/media/LetsUpgrade.b2687fac.png",
+    "static/media/NewolflogoN.03e33d03.png": "/unscriptrookies/static/media/NewolflogoN.03e33d03.png",
+    "static/media/NoticeBardLogo.d67414b9.png": "/unscriptrookies/static/media/NoticeBardLogo.d67414b9.png",
+    "static/media/Pattern.e77896ad.png": "/unscriptrookies/static/media/Pattern.e77896ad.png",
+    "static/media/Sahu Technologies.82441dee.jpg": "/unscriptrookies/static/media/Sahu Technologies.82441dee.jpg",
+    "static/media/StreamYardHorz.6fd7650d.png": "/unscriptrookies/static/media/StreamYardHorz.6fd7650d.png",
+    "static/media/about.svg": "/unscriptrookies/static/media/about.6ac6013a.svg",
+    "static/media/clickuplogo.e42987ab.png": "/unscriptrookies/static/media/clickuplogo.e42987ab.png",
+    "static/media/hardwarelogo.f747040b.png": "/unscriptrookies/static/media/hardwarelogo.f747040b.png",
+    "static/media/hoverrobotix.deac357c.png": "/unscriptrookies/static/media/hoverrobotix.deac357c.png",
+    "static/media/mentorx.720a8da5.png": "/unscriptrookies/static/media/mentorx.720a8da5.png",
+    "static/media/taskade-circle-icon.e388ffc9.png": "/unscriptrookies/static/media/taskade-circle-icon.e388ffc9.png",
+    "static/media/unscript_bg.3daea83d.png": "/unscriptrookies/static/media/unscript_bg.3daea83d.png",
+    "static/media/unscript_logo_1.png": "/unscriptrookies/static/media/unscript_logo_1.bcb1b5b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70c755a.js",
+    "static/js/2.d1c7bffb.chunk.js",
+    "static/css/main.f6022062.chunk.css",
+    "static/js/main.9d63be34.chunk.js"
+  ]
+}
